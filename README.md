@@ -1,6 +1,7 @@
 Building Random projects
 
 ## Projects
+- [deepseek-harness](https://github.com/gkgangavarapu/deepseek-harness) - DeepSeek Harness fork that adds macOS Intel (x64) packaging, publishing and CI parity.
 - [goodreadskosync](https://github.com/gkgangavarapu/goodreadskosync) -  Plugin for Kindle/Kobo/Ko Reader progress sync with good reads
 - [reader-speed](https://github.com/gkgangavarapu/reader-speed) - Chromium extension highlighting each word's optimal reading point (ORP).
 - [Fraud-model-Live-Photo](https://github.com/gkgangavarapu/Fraud-model-Live-Photo) - CNN to detect live vs screenshot face photos during customer acquisition.
